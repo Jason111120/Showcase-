@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/rebornluxx/PSX99/refs/heads/main/PSX99-SCRIPT"))()
